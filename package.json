@@ -2,10 +2,11 @@
   "name": "gzip-utils",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zoran-php/gzip-ts.git"
+    "url": "https://github.com/zoran-php/gzip-utils"
   },
+  "homepage": "https://github.com/zoran-php/gzip-utils#readme",
   "version": "1.0.0",
-  "description": "Gzip and Gunzip text, file, blob, Uint8Array or stream using native Javascript Compression API",
+  "description": "Gzip and Gunzip text, File, Blob, Uint8Array or stream using native Javascript Compression API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
